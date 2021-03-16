@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\SQLtry.deps.json
+C:\Users\HP\Desktop\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\SQLtry.runtimeconfig.json
+C:\Users\HP\Desktop\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\SQLtry.runtimeconfig.dev.json
+C:\Users\HP\Desktop\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\SQLtry.dll
+C:\Users\HP\Desktop\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\SQLtry.pdb
+C:\Users\HP\Desktop\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.AssemblyInfo.cs
+C:\Users\HP\Desktop\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.dll
+C:\Users\HP\Desktop\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.pdb
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\SQLtry.deps.json
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\SQLtry.runtimeconfig.json
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\SQLtry.runtimeconfig.dev.json
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\SQLtry.dll
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\SQLtry.pdb
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.csprojAssemblyReference.cache
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.csproj.CoreCompileInputs.cache
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.AssemblyInfoInputs.cache
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.AssemblyInfo.cs
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.dll
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\SQLtry.pdb

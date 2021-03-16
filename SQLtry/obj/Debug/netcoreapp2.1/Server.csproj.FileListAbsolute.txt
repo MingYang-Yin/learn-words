@@ -1,0 +1,11 @@
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\Server.deps.json
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\Server.dll
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\bin\Debug\netcoreapp2.1\Server.pdb
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\Server.dll
+G:\learning\About Computer\C#\大作业\SQLtry\SQLtry\obj\Debug\netcoreapp2.1\Server.pdb
